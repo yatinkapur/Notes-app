@@ -8,11 +8,11 @@ npm install
 ```
 ## Run the APP
 ```
- Run application using > node app.js' 
- Add a Note, use >node app.js add --title="TitleName" --body="Title Body" 
- Remove a Note, use  >node app.js remove --title="TitleName" 
- Read a Note, use  >node app.js read --title="TitleName" 
- List all Note, use >node app.js list 
+ Run application using > node app.js
+ Add a Note, use > node app.js add --title="TitleName" --body="Title Body" 
+ Remove a Note, use  > node app.js remove --title="TitleName" 
+ Read a Note, use  > node app.js read --title="TitleName" 
+ List all Note, use > node app.js list 
 
 ```
  
